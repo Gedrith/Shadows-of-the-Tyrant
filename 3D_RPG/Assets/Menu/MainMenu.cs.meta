@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dbc3f683121797646bc987bf1578facb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - background: {fileID: 2800000, guid: dab0806454e4d924491b1b84dddaa6b7, type: 3}
+  - Main_Menu: {fileID: 11400000, guid: 3019a6285dadd684cb8a8538f24537f2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
